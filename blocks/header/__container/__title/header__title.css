@@ -1,0 +1,19 @@
+.header__title {
+  margin: 0;
+  padding: 0;
+  color: #313131;
+  font-family: Merriweather;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.header__title span {
+  text-align: center;
+  margin-left: -11px;
+}

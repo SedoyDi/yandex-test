@@ -1,0 +1,9 @@
+.page {
+  font-family: "Golos Text", "Montserrat", "Merriweather", Arial, sans-serif,
+    serif;
+  background-color: #e6dbcf;
+}
+.page__container {
+  margin: 0 auto;
+  width: 375px;
+}

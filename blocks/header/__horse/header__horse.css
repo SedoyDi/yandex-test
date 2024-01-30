@@ -1,0 +1,10 @@
+.header__horse {
+  position: absolute;
+  background: url(../../../image/heder/Horse.png) no-repeat center;
+  background-size: contain;
+  width: 120px;
+  height: 115px;
+  bottom: 38px;
+  left: 133px;
+  z-index: 20;
+}

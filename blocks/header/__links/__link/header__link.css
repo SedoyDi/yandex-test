@@ -1,0 +1,21 @@
+.header__link {
+  text-decoration: none;
+  display: block;
+  width: 295px;
+  padding: 14px 20px;
+  border-radius: 66px;
+  text-align: center;
+  font-family: "Golos Text";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 130%;
+}
+.header__link_color_black {
+  background-color: #1f1f1f;
+  color: #fff;
+}
+.header__link_color_white {
+  background-color: #fff;
+  color: #1f1f1f;
+}
