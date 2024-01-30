@@ -5,6 +5,21 @@
   width: 120px;
   height: 115px;
   bottom: 38px;
-  left: 133px;
+  left: calc(100% - (240px));
   z-index: 20;
+}
+
+@media (min-width: 985px) {
+  .header__horse {
+    height: 216px;
+    width: 245px;
+    bottom: 60px;
+    left: calc(100% - (537px));
+  }
+}
+
+@media (min-width: 1480px) {
+  .header__horse {
+    left: 943px;
+  }
 }

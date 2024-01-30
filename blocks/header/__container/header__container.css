@@ -7,3 +7,11 @@
   margin-left: 20px;
   z-index: 100;
 }
+
+@media (min-width: 985px) {
+  .header__container {
+    width: 542px;
+    margin-top: 61px;
+    margin-left: 73px;
+  }
+}

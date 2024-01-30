@@ -8,3 +8,18 @@
   margin-left: -20px;
   margin-top: 30px;
 }
+
+@media (min-width: 780px) {
+  .header__links {
+    flex-direction: row;
+  }
+}
+@media (min-width: 985px) {
+  .header__links {
+    width: 542px;
+    justify-content: space-between;
+    gap: 0;
+    margin-left: -2px;
+    margin-top: 40px;
+  }
+}

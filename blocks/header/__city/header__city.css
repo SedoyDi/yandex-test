@@ -10,3 +10,21 @@
   left: 0;
   z-index: 10;
 }
+@media (min-width: 460px) {
+  .header__city {
+    background-position: -300px 0;
+  }
+}
+
+@media (min-width: 650px) {
+  .header__city {
+    background-position: -100px 0;
+  }
+}
+@media (min-width: 985px) {
+  .header__city {
+    bottom: 60px;
+    background-position: -278px 0;
+    height: 700px;
+  }
+}

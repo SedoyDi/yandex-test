@@ -5,3 +5,12 @@
   margin-left: 20px;
   margin-top: 18px;
 }
+
+@media (min-width: 985px) {
+  .header__logo {
+    width: 245px;
+    height: 36px;
+    margin-left: 72px;
+    margin-top: 27px;
+  }
+}

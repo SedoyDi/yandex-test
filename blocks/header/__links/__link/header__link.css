@@ -19,3 +19,14 @@
   background-color: #fff;
   color: #1f1f1f;
 }
+
+@media (min-width: 985px) {
+  .header__link {
+    width: 165px;
+    padding: 13px 47px;
+    border: 2px solid #1f1f1f;
+  }
+  .header__link_color_white {
+    background-color: inherit;
+  }
+}

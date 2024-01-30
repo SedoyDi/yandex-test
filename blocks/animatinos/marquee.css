@@ -22,3 +22,12 @@
   line-height: 110%;
   text-transform: uppercase;
 }
+@media (min-width: 985px) {
+  .marquee {
+    height: 60px;
+  }
+  .marquee__list li {
+    font-size: 22px;
+    margin-left: 34px;
+  }
+}
