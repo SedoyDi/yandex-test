@@ -6,5 +6,11 @@
   font-style: normal;
   font-weight: 400;
   line-height: 120%;
+  margin: 0 auto;
   margin-top: 35px;
+}
+@media (min-width: 970px) {
+  .block-1__link {
+    margin-top: 0;
+  }
 }

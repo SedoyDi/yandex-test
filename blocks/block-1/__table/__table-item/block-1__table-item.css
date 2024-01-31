@@ -29,3 +29,13 @@
   top: 187px;
   left: 153px;
 }
+@media (min-width: 970px) {
+  .block-1__table-item {
+    padding: 16px;
+  }
+  .table__position_corrector {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+}
