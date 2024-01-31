@@ -4,3 +4,13 @@
   height: 212.56px;
   margin: 0 auto;
 }
+
+@media (min-width: 1300px) {
+  .block-1__foto-1 {
+    height: 251px;
+    width: 395px;
+    margin: 0;
+    margin-top: 39px;
+    margin-left: -89px;
+  }
+}

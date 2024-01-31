@@ -8,9 +8,20 @@
   line-height: 120%;
   margin: 0 auto;
   margin-top: 35px;
+  cursor: pointer;
 }
 @media (min-width: 970px) {
   .block-1__link {
     margin-top: 0;
+  }
+}
+
+@media (min-width: 1300px) {
+  .block-1__link {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    margin-top: 27px;
+    margin-left: -10px;
   }
 }
