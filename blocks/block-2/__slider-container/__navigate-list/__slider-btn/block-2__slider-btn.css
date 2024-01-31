@@ -15,6 +15,7 @@
 }
 .block-2__slider-btn:disabled {
   background-color: #d6d6d6;
+  cursor: default;
 }
 .block-2__slider-btn img {
   display: block;
