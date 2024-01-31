@@ -14,3 +14,8 @@
     margin-top: 27px;
   }
 }
+@media (min-width: 1600px) {
+  .header__logo {
+    margin-left: 350px;
+  }
+}

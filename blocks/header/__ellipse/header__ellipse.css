@@ -17,3 +17,13 @@
     left: calc(100% - 676px);
   }
 }
+@media (min-width: 1600px) {
+  .header__ellipse {
+    left: 900px;
+  }
+}
+@media (min-width: 1700px) {
+  .header__ellipse {
+    left: 951px;
+  }
+}

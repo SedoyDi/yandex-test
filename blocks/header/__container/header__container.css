@@ -15,3 +15,9 @@
     margin-left: 73px;
   }
 }
+
+@media (min-width: 1600px) {
+  .header__container {
+    margin-left: 350px;
+  }
+}

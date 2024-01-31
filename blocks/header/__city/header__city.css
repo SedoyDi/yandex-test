@@ -28,3 +28,13 @@
     height: 700px;
   }
 }
+@media (min-width: 1480px) {
+  .header__city {
+    background-position: -100px 0;
+  }
+}
+@media (min-width: 1600px) {
+  .header__city {
+    background-position: 0 0;
+  }
+}

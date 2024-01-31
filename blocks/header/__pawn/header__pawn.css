@@ -11,8 +11,8 @@
   }
 }
 
-@media (min-width: 1480px) {
+@media (min-width: 1600px) {
   .header__pawn {
-    left: 1369px;
+    left: 1516px;
   }
 }
