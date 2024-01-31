@@ -30,3 +30,17 @@
 @import url(./blocks/block-1/__table/block-1__table.css);
 @import url(./blocks/block-1/__table/__table-item/block-1__table-item.css);
 @import url(./blocks/block-1/__link/block-1__link.css);
+
+/*------------block-2---------*/
+@import url(./blocks/block-2/block-2.css);
+@import url(./blocks/block-2/__container/block-2__container.css);
+@import url(./blocks/block-2/__title/block-2__title.css);
+@import url(./blocks/block-2/__link/block-2__link.css);
+@import url(./blocks/block-2/__air/block-2__air.css);
+@import url(./blocks/block-2/__slider-container/block-2__slider-container.css);
+@import url(./blocks/block-2/__slider-container/__slide-list/block-2__slide-list.css);
+@import url(./blocks/block-2/__slider-container/__slide-img/block-2__slide-img.css);
+@import url(./blocks/block-2/__slider-container/__navigate-list/block-2__navigate-list.css);
+@import url(./blocks/block-2/__slider-container/__navigate-list/__slider-btn/block-2__slider-btn.css);
+@import url(./blocks/block-2/__slider-container/__navigate-list/__slider-point-list/block-2__slider-point-list.css);
+@import url(./blocks/block-2/__slider-container/__navigate-list/__point/block-2__point.css);

@@ -1,0 +1,11 @@
+.block-2__point {
+  content: "";
+  display: block;
+  background-color: #d9d9d9;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.block-2__point.active {
+  background-color: #313131;
+}

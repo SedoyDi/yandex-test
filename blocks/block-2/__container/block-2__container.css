@@ -1,0 +1,8 @@
+.block-2__container {
+  display: flex;
+  flex-direction: column;
+  width: 335px;
+  margin: 0 auto;
+  padding-top: 121px;
+  position: relative;
+}

@@ -1,0 +1,8 @@
+.block-2__navigate-list {
+  display: flex;
+  width: 178px;
+  height: 36px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 28px auto 0;
+}
