@@ -1,0 +1,7 @@
+.block-1__table {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: auto;
+  position: relative;
+  width: 335px;
+}

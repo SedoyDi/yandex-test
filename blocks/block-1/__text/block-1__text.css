@@ -1,0 +1,24 @@
+.block-1__text {
+  color: #313131;
+  font-family: Merriweather;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 135%;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+
+.block-1__text span {
+  color: #f54932;
+  font-weight: 700;
+}
+
+.block-1__text_position {
+  display: inline-block;
+  width: 335px;
+}
+.block-1__text_top-position {
+  margin-top: 10px;
+}

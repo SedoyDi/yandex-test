@@ -10,14 +10,23 @@
   font-style: normal;
   font-weight: 500;
   line-height: 130%;
+  cursor: pointer;
 }
 .header__link_color_black {
   background-color: #1f1f1f;
   color: #fff;
 }
+.header__link_color_black:hover {
+  background-color: #fbce51;
+  color: #1f1f1f;
+}
 .header__link_color_white {
   background-color: #fff;
   color: #1f1f1f;
+}
+.header__link_color_white:hover {
+  background-color: #1f1f1f;
+  color: #fff;
 }
 
 @media (min-width: 985px) {
@@ -28,5 +37,8 @@
   }
   .header__link_color_white {
     background-color: inherit;
+  }
+  .header__link_color_black:hover {
+    border: 2px solid #fbce51;
   }
 }

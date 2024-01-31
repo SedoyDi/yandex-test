@@ -1,0 +1,31 @@
+.block-1__table-item {
+  color: #313131;
+  font-family: "Golos Text";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%;
+  padding-top: 16px;
+  margin: 0;
+}
+.block-1__table-item s {
+  text-decoration-color: red;
+}
+
+.table-item__color_grey {
+  opacity: 0.7;
+}
+
+.table-item__font-weight_600 {
+  font-weight: 600;
+}
+.border {
+  padding: 14.5px 0;
+  border-bottom: 1px solid #d0d0d0;
+}
+
+.table__position_corrector {
+  position: absolute;
+  top: 187px;
+  left: 153px;
+}
