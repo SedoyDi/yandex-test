@@ -1,9 +1,17 @@
 .block-2__air {
   display: block;
   z-index: 20;
-  object-fit: cover;
   width: 330px;
   position: absolute;
   top: 317px;
   left: 16px;
+}
+@media (min-width: 1300px) {
+  .block-2__air {
+    width: 382px;
+    top: auto;
+    left: auto;
+    bottom: 65px;
+    right: -71px;
+  }
 }

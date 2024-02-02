@@ -19,7 +19,6 @@
 }
 .block-2__slider-btn img {
   display: block;
-  object-fit: cover;
   height: 50%;
   margin: 0 auto;
 }

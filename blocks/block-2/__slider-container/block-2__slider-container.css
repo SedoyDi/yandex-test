@@ -5,3 +5,8 @@
   width: 100%;
   height: 400px;
 }
+@media (min-width: 1300px) {
+  .block-2__slider-container {
+    display: none;
+  }
+}

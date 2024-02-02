@@ -6,3 +6,9 @@
   padding-top: 121px;
   position: relative;
 }
+
+@media (min-width: 1300px) {
+  .block-2__container {
+    width: 1200px;
+  }
+}

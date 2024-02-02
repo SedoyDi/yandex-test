@@ -9,3 +9,13 @@
   line-height: 110%;
   text-transform: uppercase;
 }
+
+@media (min-width: 1300px) {
+  .block-2__title {
+    font-size: 54px;
+    line-height: 64.8px;
+    width: 806px;
+    margin-top: 58px;
+    margin-left: -2px;
+  }
+}
