@@ -1,0 +1,17 @@
+.block-3__container {
+  display: flex;
+  flex-direction: column;
+  width: 335px;
+  margin: 0 auto;
+  padding-top: 85px;
+  padding-bottom: 100px;
+}
+
+@media (min-width: 1300px) {
+  .block-3__container {
+    position: relative;
+    width: 1300px;
+    padding-top: 137px;
+    padding-bottom: 140px;
+  }
+}

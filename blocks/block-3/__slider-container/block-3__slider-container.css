@@ -1,0 +1,7 @@
+.block-3__slider-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  margin-top: 40px;
+}

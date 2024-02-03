@@ -1,0 +1,26 @@
+.block-3__slide-button {
+  color: #3057a2;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Golos Text";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-top: 20px;
+  padding: 7px 12px;
+  border-radius: 62px;
+  border: 1px solid #3057a2;
+}
+.block-3__slide-button:hover {
+  background-color: #3057a2;
+  color: #ffffff;
+}
+
+@media (min-width: 1300px) {
+  .block-3__slide-button {
+    margin-left: 5px;
+    margin-top: 21px;
+  }
+}

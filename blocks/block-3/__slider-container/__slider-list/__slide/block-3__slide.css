@@ -1,0 +1,14 @@
+.block-3__slide {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
+.block-3__slide.active {
+  display: flex;
+}
+
+@media (min-width: 1300px) {
+  .block-3__slide {
+    width: 394px;
+  }
+}

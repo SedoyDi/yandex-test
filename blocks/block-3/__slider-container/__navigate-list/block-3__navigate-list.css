@@ -1,0 +1,18 @@
+.block-3__navigate-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 129px;
+  height: 36px;
+  margin-top: 40px;
+}
+@media (min-width: 1300px) {
+  .block-3__navigate-list {
+    margin: 0;
+    width: 151px;
+    height: 44px;
+    position: absolute;
+    top: 146px;
+    right: 32px;
+  }
+}

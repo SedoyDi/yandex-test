@@ -1,0 +1,11 @@
+.block-3__slide-img {
+  display: block;
+  width: 244px;
+  height: 244px;
+}
+@media (min-width: 1300px) {
+  .block-3__slide-img {
+    width: 320px;
+    height: 320px;
+  }
+}
